@@ -1,0 +1,20 @@
+							Assessee (j)
+						A	B	C	D
+Original raw assessments (RA)
+Assessor (i)
+A						1.35	1.07	0.92	0.92
+B						1.11	1.28	1.06	1.01
+C						0.99	1.07	1.04	1.03
+D						0.97	0.95	0.92	1.21
+
+Normalised assessments (NAs)
+A						0.32	0.25	0.22	0.22
+B						0.25	0.29	0.24	0.23
+C						0.24	0.26	0.25	0.25
+D						0.24	0.24	0.23	0.30
+
+Normalised assessments (NAs) without self-assessments
+A							0.37	0.32	0.32
+B						0.35		0.33	0.32
+C						0.32	0.35		0.33
+D						0.34	0.34	0.32
